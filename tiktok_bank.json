@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T15:05:56Z",
+  "updatedAt": "2026-09-25T16:40:31Z",
   "niches": [
     {
       "key": "funny",
@@ -37,6 +37,66 @@
       "niche": "funny",
       "bahasa": "Indonesia",
       "catatan": "akun awal Aldo 25 Sep"
+    },
+    {
+      "handle": "erlansz.gsh",
+      "niche": "hewan",
+      "bahasa": "semua",
+      "catatan": "kucing asli, polos; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "is.emeng",
+      "niche": "hewan",
+      "bahasa": "semua",
+      "catatan": "kucing asli, polos (akun repost kucing random); kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "gangsterspitz",
+      "niche": "hewan",
+      "bahasa": "semua",
+      "catatan": "pomeranian asli, polos; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "mr_powerwash",
+      "niche": "satisfying",
+      "bahasa": "semua",
+      "catatan": "pressure washing POV, polos, judul hashtag; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "jonmccabe87",
+      "niche": "satisfying",
+      "bahasa": "semua",
+      "catatan": "pressure washing kebun, polos; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "perfectpressurecs",
+      "niche": "satisfying",
+      "bahasa": "semua",
+      "catatan": "pressure washing, sebagian teks tipis; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "mesmerloop",
+      "niche": "satisfying",
+      "bahasa": "semua",
+      "catatan": "kinetic sand di gelas, polos; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "sandsoundrelaxation",
+      "niche": "satisfying",
+      "bahasa": "semua",
+      "catatan": "kinetic sand, ada watermark tulisan asmrsatisfyingvideo; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "paper__pepper",
+      "niche": "satisfying",
+      "bahasa": "semua",
+      "catatan": "kerajinan kertas ASMR, polos; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "receh.vids",
+      "niche": "funny",
+      "bahasa": "Indonesia",
+      "catatan": "video random asli, judul pendek + hashtag umum; kurasi 25 Sep, disetujui Aldo"
     }
   ]
 }
