@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T15:05:56Z",
+  "niches": [
+    {
+      "key": "funny",
+      "label": "Lucu / Funny"
+    },
+    {
+      "key": "hewan",
+      "label": "Hewan / Pets"
+    },
+    {
+      "key": "fails",
+      "label": "Fails / Apes"
+    },
+    {
+      "key": "satisfying",
+      "label": "Satisfying / ASMR"
+    },
+    {
+      "key": "fakta-misteri",
+      "label": "Fakta & Misteri"
+    },
+    {
+      "key": "motivasi",
+      "label": "Motivasi"
+    },
+    {
+      "key": "alam-kota",
+      "label": "Alam & Kota"
+    }
+  ],
+  "accounts": [
+    {
+      "handle": "user9474065721924",
+      "niche": "funny",
+      "bahasa": "Indonesia",
+      "catatan": "akun awal Aldo 25 Sep"
+    }
+  ]
+}
