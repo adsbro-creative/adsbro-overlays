@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T16:40:31Z",
+  "updatedAt": "2026-09-26T00:59:18Z",
   "niches": [
     {
       "key": "funny",
@@ -97,6 +97,108 @@
       "niche": "funny",
       "bahasa": "Indonesia",
       "catatan": "video random asli, judul pendek + hashtag umum; kurasi 25 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "failarmy",
+      "niche": "fails",
+      "bahasa": "semua",
+      "catatan": "fail asli, watermark FAILARMY kecil, sebagian teks; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "mythrottle.view",
+      "niche": "fails",
+      "bahasa": "semua",
+      "catatan": "fail motor, watermark + judul teks atas; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "exploring.the.abandoned",
+      "niche": "fakta-misteri",
+      "bahasa": "semua",
+      "catatan": "rumah kosong / urbex, polos; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "lost.entry",
+      "niche": "fakta-misteri",
+      "bahasa": "semua",
+      "catatan": "urbex UK, teks tipis sebagian; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "pimpmycamel",
+      "niche": "fakta-misteri",
+      "bahasa": "semua",
+      "catatan": "urbex seram, tiap video ada teks cerita; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "nautiluslive",
+      "niche": "fakta-misteri",
+      "bahasa": "semua",
+      "catatan": "laut dalam asli (ROV), sebagian orang ngomong; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "chrispnavarro",
+      "niche": "motivasi",
+      "bahasa": "semua",
+      "catatan": "rutinitas jam 5 pagi, teks jam kecil; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "deam28_",
+      "niche": "motivasi",
+      "bahasa": "semua",
+      "catatan": "gym, sebagian letterbox; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "astral_fpv",
+      "niche": "alam-kota",
+      "bahasa": "semua",
+      "catatan": "drone FPV bukit Inggris, polos; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "ariafpv",
+      "niche": "alam-kota",
+      "bahasa": "semua",
+      "catatan": "FPV gunung salju, polos; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "dimasvlens",
+      "niche": "alam-kota",
+      "bahasa": "semua",
+      "catatan": "Jogja / Bromo / candi, polos; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": ".agustri",
+      "niche": "alam-kota",
+      "bahasa": "semua",
+      "catatan": "Semeru / air terjun Lumajang, polos; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "sightchaser",
+      "niche": "alam-kota",
+      "bahasa": "semua",
+      "catatan": "kota + desa Belanda, polos; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "mortythegolden",
+      "niche": "hewan",
+      "bahasa": "semua",
+      "catatan": "golden retriever asli, polos; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "smollpets",
+      "niche": "hewan",
+      "bahasa": "semua",
+      "catatan": "poodle asli, polos, judul Indonesia; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "teddy.thegoldenboyy",
+      "niche": "hewan",
+      "bahasa": "semua",
+      "catatan": "golden retriever asli, teks kecil sebagian; kurasi putaran 2 26 Sep, disetujui Aldo"
+    },
+    {
+      "handle": "indonesiacatshop",
+      "niche": "hewan",
+      "bahasa": "semua",
+      "catatan": "kucing asli, sebagian teks, judul Indonesia; kurasi putaran 2 26 Sep, disetujui Aldo"
     }
   ]
 }
